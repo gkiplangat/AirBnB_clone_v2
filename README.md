@@ -73,8 +73,8 @@
 
 ## Tasks
 
-| Task | File |
-| ---- | ---- |
+| Tasks | Files | Description |
+| ----- | ----- | ------ |
 | 0. Fork me if you can! | [SOON](./) |
 | 1. Bug free! | [SOON](./) |
 | 2. Console improvements | [SOON](./) |
@@ -86,3 +86,4 @@
 | 8. DBStorage - Place | [SOON](./) |
 | 9. DBStorage - Review | [SOON](./) |
 | 10. DBStorage - Amenity... and BOOM! | [SOON](./) |
+| 11: Authors/README File | [AUTHORS](https://github.com/gkiplangat/AirBnB_clone_v2/blob/master/AUTHORS) | Project authors |
