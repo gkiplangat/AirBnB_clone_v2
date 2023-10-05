@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env bash
 # Fabfile that  generates a .tgz archive.
 import os.path
 from datetime import datetime
